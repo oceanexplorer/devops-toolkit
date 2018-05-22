@@ -289,3 +289,10 @@ __pycache__/
 
 # MAC OSX
 .DS_Store
+
+# Terrafrom
+example.tf
+terraform.tfplan
+terraform.tfstate
+./*.tfstate
+.terraform/
